@@ -1,0 +1,8 @@
+.formBox {
+    margin: auto;
+    width: 400px;
+    background-color: rgb(204, 204, 204);
+}
+.formBox form {
+    justify-items: center;
+}
